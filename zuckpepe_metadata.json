@@ -1,6 +1,11 @@
 {
     "name": "ZuckPepe",
     "symbol": "ZuckPepe",
-    "description": "Welcome To ZuckPepe! Missed $PEPE? Here is your second chance \n Twitter : https://twitter.com/ZuckPepe \n Telegram : https://t.me/zuckpepekorea \n Official Website : https://zuckpepe.com/",
-    "image": "https://raw.githubusercontent.com/Bi9Snail/Zuckpepe/main/ZuckPepe_logo.jpg"
+    "description": "Welcome To ZuckPepe! Missed $PEPE? Here is your second chance",
+    "image": "https://raw.githubusercontent.com/Bi9Snail/Zuckpepe/main/ZuckPepe_logo.jpg",
+    "extensions": {
+        "website" : "https://zuckpepe.com/",
+        "twitter": "https://twitter.com/ZuckPepe",
+        "telegram": "https://t.me/zuckpepekorea"
+    }
 }
